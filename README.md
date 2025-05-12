@@ -10,6 +10,16 @@ An intelligent travel planning assistant that helps users create personalized tr
 - 💰 Budget-aware suggestions
 - 🌍 Local insights and recommendations
 
+## 🚀 App Screenshots
+
+Here's a preview of the AI Travel Planner in action:
+
+### 🌐 Landing Page
+![Landing Page](images/s1.jpg)
+
+### 🗺️ Example Itinerary
+![Generated Itinerary](images/s2.jpg)
+
 ## Setup
 
 1. Clone the repository:
