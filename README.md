@@ -14,7 +14,7 @@ An intelligent travel planning assistant that helps users create personalized tr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-travel-planner.git
+git clone https://github.com/Nikita-NA/ai-travel-planner.git
 cd ai-travel-planner
 ```
 
