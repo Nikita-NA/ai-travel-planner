@@ -32,7 +32,7 @@ streamlit run app.py
 ## Usage
 
 1. Start the application using `streamlit run app.py`
-2. Open your web browser to the provided URL (usually http://localhost:8501)
+2. Open your web browser to the provided URL 
 3. Tell the AI about your travel plans:
    - Destination
    - Travel dates
